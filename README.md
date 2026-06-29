@@ -298,12 +298,7 @@ Random Forest            0.9740        0.9742    0.9740    0.9739
 XGBoost                  0.9812        0.9815    0.9812    0.9811
 ──────────────────────────────────────────────────────
 
-🏆  Best Model : XGBoost
-    Accuracy   : 0.9812
-    F1-Score   : 0.9811
 
-✅ Quality gate passed — accuracy 0.9812 ≥ 0.9500
-```
 
 ### Training Complete Banner
 
